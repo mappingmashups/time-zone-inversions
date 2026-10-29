@@ -1,0 +1,217 @@
+NAME,ADM0NAME,ADM1NAME,POP_MAX,TIMEZONE,tzid,off_jan,off_jul,lon,lat
+Irvine,United States of America,California,3010232,,America/Los_Angeles,-8.0,-7.0,-117.8299502,33.6804106
+Fort Lauderdale,United States of America,Florida,2042042,America/New_York,America/New_York,-5.0,-4.0,-80.1417855,26.1360649
+Dammam,Saudi Arabia,Ash Sharqiyah,2054710,Asia/Riyadh,Asia/Riyadh,3.0,3.0,50.0977245,26.4301376
+Quezon City,Philippines,Metropolitan Manila,2761720,,Asia/Manila,8.0,8.0,121.0299662,14.6504352
+Katowice,Poland,Silesian,2746000,Europe/Warsaw,Europe/Warsaw,1.0,2.0,19.020017,50.2603805
+Hechi,China,Guangxi,3830000,,Asia/Shanghai,8.0,8.0,108.08299950401414,24.695252134251945
+Zhangzhou,China,Fujian,3531147,Asia/Shanghai,Asia/Shanghai,8.0,8.0,117.6700162,24.5203754
+Bekasi,Indonesia,Jakarta Raya,2378211,Asia/Jakarta,Asia/Jakarta,7.0,7.0,106.972323,-6.2172575
+Mannheim,Germany,Baden-Württemberg,2362000,Europe/Berlin,Europe/Berlin,1.0,2.0,8.470015,49.5003752
+Xiangtan,China,Hunan,2586948,Asia/Chongqing,Asia/Shanghai,8.0,8.0,112.9000232,27.8504305
+Haora,India,West Bengal,4841638,Asia/Kolkata,Asia/Kolkata,5.5,5.5,88.31851641697797,22.584697601843814
+Long Beach,United States of America,California,2036134,America/Los_Angeles,America/Los_Angeles,-8.0,-7.0,-118.20033735659706,33.77701767314316
+Faisalabad,Pakistan,Punjab,2617000,Asia/Karachi,Asia/Karachi,5.0,5.0,73.1080513,31.4119266
+Benoni,South Africa,Gauteng,2986000,Africa/Johannesburg,Africa/Johannesburg,2.0,2.0,28.3279939,-26.147635
+Daegu,South Korea,Taegu-gwangyoksi,2460000,Asia/Seoul,Asia/Seoul,9.0,9.0,128.6050255,35.8687346
+Giza,Egypt,Al Jizah,2681863,Africa/Cairo,Africa/Cairo,2.0,3.0,31.1900236,30.0099886
+Stuttgart,Germany,Baden-Württemberg,2944700,Europe/Berlin,Europe/Berlin,1.0,2.0,9.1999963,48.7799799
+Haikou,China,Hainan,2046189,Asia/Chongqing,Asia/Shanghai,8.0,8.0,110.3200256,20.0500023
+Yokohama,Japan,Kanagawa,3697894,Asia/Tokyo,Asia/Tokyo,9.0,9.0,139.602021,35.4306562
+New Taipei,Taiwan,New Taipei City,3893740,,Asia/Taipei,8.0,8.0,121.465,25.0127778
+Manchester,United Kingdom,Manchester,2230000,Europe/London,Europe/London,0.0,1.0,-2.2486846671598855,53.47531992472453
+Incheon,South Korea,Inch'on-gwangyoksi,2550000,Asia/Seoul,Asia/Seoul,9.0,9.0,126.6402876,37.4780937
+Xiamen,China,Fujian,2519000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,118.0780712,24.4519379
+Nanchong,China,Sichuan,2174000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,106.1280513,30.7823784
+Jinxi,China,Liaoning,2426000,Asia/Harbin,Asia/Shanghai,8.0,8.0,120.8280325,40.7522867
+Yantai,China,Shandong,2116000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,121.3980753,37.532354
+Zaozhuang,China,Shandong,2145000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,117.5680765,34.8819473
+Xuzhou,China,Jiangsu,2091000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,117.1780744,34.2819581
+Jilin,China,Jilin,2396000,Asia/Harbin,Asia/Shanghai,8.0,8.0,126.5480968,43.8519166
+Baltimore,United States of America,Maryland,2255000,America/New_York,America/New_York,-5.0,-4.0,-76.6145820807727,39.28151578641361
+Birmingham,United Kingdom,West Midlands,2285000,Europe/London,Europe/London,0.0,1.0,-1.9219426,52.4769198
+İzmir,Turkey,Izmir,2587000,Europe/Istanbul,Europe/Istanbul,3.0,3.0,27.1498482,38.4380955
+Omdurman,Sudan,Khartoum,2395159,Africa/Khartoum,Africa/Khartoum,2.0,2.0,32.4800223,15.6166811
+Busan,South Korea,Busan,3480000,Asia/Seoul,Asia/Seoul,9.0,9.0,129.0081017,35.0969988
+Ibadan,Nigeria,Oyo,2628000,Africa/Lagos,Africa/Lagos,1.0,1.0,3.9280362,7.3819721
+George Town,Malaysia,Pulau Pinang,2500000,Asia/Kuala_Lumpur,Asia/Kuala_Lumpur,8.0,8.0,100.3293679,5.4136132
+Hefei,China,Anhui,2035000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,117.2780683,31.8519772
+Shijiazhuang,China,Hebei,2417000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,114.4780325,38.0519605
+Dalian,China,Liaoning,3167000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,121.627885,38.9247843
+Qingdao,China,Shandong,2866000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,120.3280631,36.0919251
+Linyi,China,Shandong,2082000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,118.3280301,35.0819351
+Wenzhou,China,Zhejiang,2350000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,120.6481469,28.0219268
+Fukuoka,Japan,Fukuoka,2792000,Asia/Tokyo,Asia/Tokyo,9.0,9.0,130.4080679,33.5969611
+Nagoya,Japan,Aichi,3230000,Asia/Tokyo,Asia/Tokyo,9.0,9.0,136.9130456,35.1569434
+Sendai,Japan,Miyagi,2250000,Asia/Tokyo,Asia/Tokyo,9.0,9.0,140.86966685536837,38.2684409197744
+Lucknow,India,Uttar Pradesh,2695000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,80.9130529,26.8569849
+Indore,India,Madhya Pradesh,2026000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,75.8630769,22.7170051
+Belo Horizonte,Brazil,Minas Gerais,5575000,America/Sao_Paulo,America/Sao_Paulo,-3.0,-3.0,-43.9169504,-19.9130802
+Campinas,Brazil,São Paulo,2791000,America/Sao_Paulo,America/Sao_Paulo,-3.0,-3.0,-47.05588541861934,-22.90789786605005
+Taichung,Taiwan,Taichung City,2629323,Asia/Taipei,Asia/Taipei,8.0,8.0,120.681667,24.1520775
+Tunis,Tunisia,Tunis,2412500,Africa/Tunis,Africa/Tunis,1.0,1.0,10.1796781,36.8027781
+Baku,Azerbaijan,Baki,2122300,Asia/Baku,Asia/Baku,4.0,4.0,49.8602713,40.3972179
+Santa Cruz,Bolivia,Santa Cruz,2102998,America/La_Paz,America/La_Paz,-4.0,-4.0,-63.2279422,-17.7519718
+San Juan,Puerto Rico,,2478905,America/Puerto_Rico,America/Puerto_Rico,-4.0,-4.0,-66.1299793,18.440023
+Kaohsiung,Taiwan,Kaohsiung City,2769072,Asia/Taipei,Asia/Taipei,8.0,8.0,120.2666019,22.6333071
+Shenzhen,China,Guangdong,7581000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,114.06115351896277,22.54809707412332
+Zibo,China,Shandong,3061000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,117.9964595757144,36.82136457648037
+Minneapolis,United States of America,Minnesota,2616000,America/Chicago,America/Chicago,-6.0,-5.0,-93.2537322,44.9819251
+Seattle,United States of America,Washington,3074000,America/Los_Angeles,America/Los_Angeles,-8.0,-7.0,-122.31532231603904,47.600423319460475
+Phoenix,United States of America,Arizona,3551000,America/Phoenix,America/Phoenix,-7.0,-7.0,-112.06736527766587,33.44832240381263
+San Diego,United States of America,California,2916000,America/Los_Angeles,America/Los_Angeles,-8.0,-7.0,-117.15088145402623,32.71891385421138
+St. Louis,United States of America,Missouri,2199000,America/Chicago,America/Chicago,-6.0,-5.0,-90.2419264,38.6369636
+Dallas,United States of America,Texas,4798000,America/Chicago,America/Chicago,-6.0,-5.0,-96.79468722529398,32.771958135439206
+Maracaibo,Venezuela,Zulia,2072000,America/Caracas,America/Caracas,-4.0,-4.0,-71.6619235,10.7319227
+Boston,United States of America,Massachusetts,4467000,America/New_York,America/New_York,-5.0,-4.0,-71.0719595,42.331906
+Tampa,United States of America,Florida,2314000,America/New_York,America/New_York,-5.0,-4.0,-82.4605667,27.9489338
+Philadelphia,United States of America,Pennsylvania,5492000,America/New_York,America/New_York,-5.0,-4.0,-75.1798412402816,39.94594243742075
+Detroit,United States of America,Michigan,4101000,America/Detroit,America/Detroit,-5.0,-4.0,-83.05133408216001,42.33355800559568
+Hanoi,Vietnam,Thái Nguyên,4378000,Asia/Ho_Chi_Minh,Asia/Bangkok,7.0,7.0,105.8480683,21.0352731
+Ho Chi Minh City,Vietnam,H? Chí Minh city,5314000,Asia/Ho_Chi_Minh,Asia/Ho_Chi_Minh,7.0,7.0,106.70298470218748,10.762124565177512
+Ankara,Turkey,Ankara,3716000,Europe/Istanbul,Europe/Istanbul,3.0,3.0,32.8624458,39.9291844
+Sanaa,Yemen,Amanat Al Asimah,2008000,,Asia/Aden,3.0,3.0,44.2046475,15.3566792
+Barcelona,Spain,Cataluña,4920000,Europe/Madrid,Europe/Madrid,1.0,2.0,2.1814245,41.3852454
+Aleppo,Syria,Aleppo (Halab),2738000,Asia/Damascus,Asia/Damascus,3.0,3.0,37.1680744,36.2319166
+Damascus,Syria,Damascus,2466000,,Asia/Damascus,3.0,3.0,36.29805,33.5019799
+Lisbon,Portugal,Lisboa,2812000,Europe/Lisbon,Europe/Lisbon,0.0,1.0,-9.1468122,38.7246687
+Khartoum,Sudan,Khartoum,4754000,Africa/Khartoum,Africa/Khartoum,2.0,2.0,32.5322334,15.5900241
+Jeddah,Saudi Arabia,Makkah,3012000,Asia/Riyadh,Asia/Riyadh,3.0,3.0,39.2172517,21.5188353
+Lahore,Pakistan,Punjab,6577000,Asia/Karachi,Asia/Karachi,5.0,5.0,74.3480789,31.5619174
+Karachi,Pakistan,Sind,12130000,Asia/Karachi,Asia/Karachi,5.0,5.0,66.9880631,24.8719381
+Durban,South Africa,KwaZulu-Natal,2729000,Africa/Johannesburg,Africa/Johannesburg,2.0,2.0,31.01094366326237,-29.86066234118211
+St.  Petersburg,Russia,City of St. Petersburg,4553000,Europe/Moscow,Europe/Moscow,3.0,3.0,30.3140742,59.9409604
+Guadalajara,Mexico,Jalisco,4198000,America/Mexico_City,America/Mexico_City,-6.0,-6.0,-103.3319801,20.671962
+Puebla,Mexico,Puebla,2195000,America/Mexico_City,America/Mexico_City,-6.0,-6.0,-98.20373725542488,19.032593839016364
+Kano,Nigeria,Kano,3140000,Africa/Lagos,Africa/Lagos,1.0,1.0,8.5180919,12.0019227
+Pyongyang,North Korea,P'yongyang,3300000,Asia/Pyongyang,Asia/Pyongyang,9.0,9.0,125.7527449,39.0213846
+Dar es Salaam,Tanzania,Dar-Es-Salaam,2930000,Africa/Dar_es_Salaam,Africa/Dar_es_Salaam,3.0,3.0,39.266396,-6.7980667
+Medan,Indonesia,Sumatera Utara,2115000,Asia/Jakarta,Asia/Jakarta,7.0,7.0,98.6480944,3.5819198
+Naples,Italy,Campania,2250000,Europe/Rome,Europe/Rome,1.0,2.0,14.2430655,40.8419711
+Milan,Italy,Lombardia,2945000,Europe/Rome,Europe/Rome,1.0,2.0,9.2030631,45.4719211
+Lanzhou,China,Gansu,2561000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,103.7900544,36.0579737
+Nanning,China,Guangxi,2167000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,108.3180985,22.8219341
+Guiyang,China,Guizhou,3662000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,106.7180928,26.5819888
+Chongqing,China,Chongqing,6461000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,106.5930358,29.5669229
+Fuzhou,China,Fujian,2606000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,119.2981001,26.0819418
+Guangzhou,China,Guangdong,8829000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,113.26178516712943,23.12472343296695
+Dongguan,China,Guangdong,4528000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,113.75047406547746,23.02153738850798
+Bandung,Indonesia,Jawa Barat,2394000,Asia/Jakarta,Asia/Jakarta,7.0,7.0,107.5680667,-6.9480834
+Surabaya,Indonesia,Jawa Timur,2845000,Asia/Jakarta,Asia/Jakarta,7.0,7.0,112.7488874,-7.24729
+Guayaquil,Ecuador,Guayas,2514000,America/Guayaquil,America/Guayaquil,-5.0,-5.0,-79.9219878,-2.2180879
+Medellín,Colombia,Antioquia,3297000,America/Bogota,America/Bogota,-5.0,-5.0,-75.5769559,6.2769491
+Cali,Colombia,Valle del Cauca,2254000,America/Bogota,America/Bogota,-5.0,-5.0,-76.5019123,3.401905
+Havana,Cuba,Ciudad de la Habana,2174000,America/Havana,America/Havana,-5.0,-4.0,-82.366128,23.1339047
+Alexandria,Egypt,Al Iskandariyah,4165000,Africa/Cairo,Africa/Cairo,2.0,3.0,29.94805,31.2019652
+Frankfurt,Germany,Hessen,2895000,Europe/Berlin,Europe/Berlin,1.0,2.0,8.6750154,50.0999768
+Kuwait City,Kuwait,Al Kuwayt,2063000,Asia/Kuwait,Asia/Kuwait,3.0,3.0,47.9763553,29.3716635
+Xian,China,Shaanxi,4009000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,108.8930504,34.2769713
+Taiyuan,China,Shanxi,2913000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,112.5431119,37.8769583
+Wuhan,China,Hubei,7243000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,114.2680712,30.5819772
+Changsha,China,Hunan,2604000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,112.9680472,28.2019158
+Kunming,China,Yunnan,2931000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,102.69743977228744,25.042859073104868
+Zhengzhou,China,Henan,2636000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,113.6631469,34.756942
+Shenyeng,China,Liaoning,4787000,Asia/Harbin,Asia/Shanghai,8.0,8.0,123.4480277,41.8069251
+Jinan,China,Shandong,2798000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,116.9930728,36.6769282
+Tianjin,China,Tianjin,7180000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,117.19660728208831,39.08277176197969
+Nanchang,China,Jiangxi,2350000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,115.8780504,28.6819381
+Nanjing,China,Jiangsu,3679000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,118.7780285,32.051965
+Hangzhou,China,Zhejiang,3007000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,120.1680728,30.2519198
+Hiroshima,Japan,Hiroshima,2045000,Asia/Tokyo,Asia/Tokyo,9.0,9.0,132.4409671,34.389781
+Changchun,China,Jilin,3183000,Asia/Harbin,Asia/Shanghai,8.0,8.0,125.3380415,43.8669544
+Baotou,China,Nei Mongol,2036000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,109.820074,40.6541531
+Harbin,China,Heilongjiang,3621000,Asia/Harbin,Asia/Shanghai,8.0,8.0,126.648039,45.7519298
+Sapporo,Japan,Hokkaido,2544000,Asia/Tokyo,Asia/Tokyo,9.0,9.0,141.3380985,43.0769251
+Santo Domingo,Dominican Republic,Distrito Nacional,2154000,America/Bogota,America/Santo_Domingo,-4.0,-4.0,-69.92974231579055,18.470745058048376
+Accra,Ghana,Greater Accra,2121000,Africa/Accra,Africa/Accra,0.0,0.0,-0.2186616,5.5519805
+Delhi,India,Delhi,15926000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,77.2280582,28.6719388
+Hyderabad,India,Telangana,6376000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,78.4780077,17.401929
+Pune,India,Maharashtra,4672000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,73.85189174674915,18.516394229926586
+Nagpur,India,Maharashtra,2454000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,79.088048,21.1719056
+Tripoli,Libya,Tajura' wa an Nawahi al Arba,2189000,,Africa/Tripoli,2.0,2.0,13.1800118,32.8925
+Tel Aviv,Israel,Tel Aviv,3112000,Asia/Jerusalem,Asia/Jerusalem,2.0,3.0,34.7680659,32.0819373
+Mashhad,Iran,Razavi Khorasan,2469000,Asia/Tehran,Asia/Tehran,3.5,3.5,59.5680508,36.2719658
+Jaipur,India,Rajasthan,2917000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,75.8080415,26.9230791
+Kanpur,India,Uttar Pradesh,3162000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,80.3180504,26.4619445
+Patna,India,Bihar,2158000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,85.1280928,25.626905
+Chennai,India,Tamil Nadu,7163000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,80.2780529,13.0919337
+Ahmedabad,India,Dadra and Nagar Haveli,5375000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,72.5780578,23.0319988
+Surat,India,Dadra and Nagar Haveli,3842000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,72.8380936,21.2019296
+Abidjan,Ivory Coast,Lagunes,3802000,Africa/Abidjan,Africa/Abidjan,0.0,0.0,-4.020206835187587,5.3231260722445715
+Belém,Brazil,Pará,2167000,America/Belem,America/Belem,-3.0,-3.0,-48.4819689,-1.4480574
+Brasília,Brazil,Distrito Federal,3716996,America/Sao_Paulo,America/Sao_Paulo,-3.0,-3.0,-47.9179981,-15.7813944
+Porto Alegre,Brazil,Rio Grande do Sul,3917000,America/Sao_Paulo,America/Sao_Paulo,-3.0,-3.0,-51.2019579,-30.0480688
+Curitiba,Brazil,Paraná,3084000,America/Sao_Paulo,America/Sao_Paulo,-3.0,-3.0,-49.3219435,-25.4180671
+Fortaleza,Brazil,Ceará,3602319,America/Fortaleza,America/Fortaleza,-3.0,-3.0,-38.5819272,-3.748072
+Salvador,Brazil,Bahia,3484000,America/Bahia,America/Bahia,-3.0,-3.0,-38.4819333,-12.968026
+Montréal,Canada,Québec,3678000,America/Montreal,America/Toronto,-5.0,-4.0,-73.5852428,45.5019451
+Goiânia,Brazil,Goiás,2022000,America/Sao_Paulo,America/Sao_Paulo,-3.0,-3.0,-49.3019705,-16.7180814
+Recife,Brazil,Pernambuco,3651000,America/Recife,America/Recife,-3.0,-3.0,-34.908765500024515,-8.06053182704913
+Dhaka,Bangladesh,Dhaka,12797394,Asia/Dhaka,Asia/Dhaka,6.0,6.0,90.4066336,23.7250056
+Luanda,Angola,Luanda,5172900,Africa/Luanda,Africa/Luanda,1.0,1.0,13.2324812,-8.8363403
+Algiers,Algeria,Alger,3354000,Africa/Algiers,Africa/Algiers,1.0,1.0,3.0486067,36.7650107
+Chattogram,Bangladesh,Chittagong,4529000,Asia/Dhaka,Asia/Dhaka,6.0,6.0,91.7980215,22.3319381
+Yangon,Myanmar,Yangon,4088000,Asia/Rangoon,Asia/Yangon,6.5,6.5,96.1647318,16.7853
+San Francisco,United States of America,California,3450000,America/Los_Angeles,America/Los_Angeles,-8.0,-7.0,-122.39959956304557,37.784262651527904
+Denver,United States of America,Colorado,2313000,,America/Denver,-7.0,-6.0,-104.9859618,39.7411339
+Houston,United States of America,Texas,4459000,,America/Chicago,-6.0,-5.0,-95.34843625672217,29.741272831862542
+Miami,United States of America,Florida,5585000,America/New_York,America/New_York,-5.0,-4.0,-80.2260519,25.7895566
+Atlanta,United States of America,Georgia,4506000,America/New_York,America/New_York,-5.0,-4.0,-84.36764186571386,33.73945728378348
+Chicago,United States of America,Illinois,8990000,America/Chicago,America/Chicago,-6.0,-5.0,-87.63523655322338,41.847961283364114
+Caracas,Venezuela,Distrito Capital,2985000,America/Caracas,America/Caracas,-4.0,-4.0,-66.9189831,10.5029444
+Kyiv,Ukraine,Kiev,2709000,Europe/Kiev,Europe/Kyiv,2.0,3.0,30.5146821,50.4353132
+Tashkent,Uzbekistan,Tashkent,2184000,Asia/Tashkent,Asia/Tashkent,5.0,5.0,69.26882294266261,41.30382822156198
+Madrid,Spain,Comunidad de Madrid,5567000,Europe/Madrid,Europe/Madrid,1.0,2.0,-3.6852975,40.4019721
+Bangkok,Thailand,Bangkok Metropolis,6704000,Asia/Bangkok,Asia/Bangkok,7.0,7.0,100.5146988,13.7519451
+Lima,Peru,Lima,8012000,America/Lima,America/Lima,-5.0,-5.0,-77.052008,-12.0460668
+Dakar,Senegal,Dakar,2604000,Africa/Dakar,Africa/Dakar,0.0,0.0,-17.475076,14.7177776
+Johannesburg,South Africa,Gauteng,3435000,Africa/Johannesburg,Africa/Johannesburg,2.0,2.0,28.0280639,-26.1680989
+Casablanca,Morocco,Grand Casablanca,3181000,Africa/Casablanca,Africa/Casablanca,0.0,0.0,-7.6183133,33.6019221
+Seoul,South Korea,Seoul,9796000,Asia/Seoul,Asia/Seoul,9.0,9.0,126.9977851,37.568295
+Manila,Philippines,Metropolitan Manila,11100000,Asia/Manila,Asia/Manila,8.0,8.0,120.9802713,14.6061048
+Monterrey,Mexico,Nuevo León,3712000,America/Monterrey,America/Monterrey,-6.0,-6.0,-100.3319306,25.671941
+Berlin,Germany,Berlin,3406000,Europe/Berlin,Europe/Berlin,1.0,2.0,13.3996028,52.5237645
+Ürümqi,China,Xinjiang Uygur,3575000,Asia/Urumqi,Asia/Shanghai,8.0,8.0,87.5730598,43.8069581
+Chengdu,China,Sichuan,4123000,Asia/Chongqing,Asia/Shanghai,8.0,8.0,104.0680736,30.6719459
+Ōsaka,Japan,Osaka,11294000,Asia/Tokyo,Asia/Tokyo,9.0,9.0,135.50375419006232,34.691095244477914
+Kinshasa,Congo (Kinshasa),Kinshasa City,7843000,Africa/Kinshasa,Africa/Kinshasa,1.0,1.0,15.313026,-4.3277782
+Bengaluru,India,Karnataka,6787000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,77.5580639,12.971941
+Athens,Greece,Attiki,3242000,Europe/Athens,Europe/Athens,2.0,3.0,23.7313752,37.9852721
+Baghdad,Iraq,Baghdad,5054000,Asia/Baghdad,Asia/Baghdad,3.0,3.0,44.3919229,33.3405944
+Addis Ababa,Ethiopia,Addis Ababa,3100000,Africa/Addis_Ababa,Africa/Addis_Ababa,3.0,3.0,38.6980586,9.0352562
+Tehran,Iran,Tehran,7873000,Asia/Tehran,Asia/Tehran,3.5,3.5,51.4223982,35.6738886
+Vancouver,Canada,British Columbia,2313328,America/Vancouver,America/Vancouver,-7.0,-7.0,-123.1235901,49.2753624
+Toronto,Canada,Ontario,5213000,America/Toronto,America/Toronto,-5.0,-4.0,-79.38945855491194,43.66464454743429
+Buenos Aires,Argentina,Ciudad de Buenos Aires,12795000,America/Argentina/Buenos_Aires,America/Argentina/Buenos_Aires,-3.0,-3.0,-58.43251268766426,-34.61071459139255
+Kabul,Afghanistan,Kabul,3277000,Asia/Kabul,Asia/Kabul,4.5,4.5,69.1813142,34.5186361
+Vienna,Austria,Wien,2400000,Europe/Vienna,Europe/Vienna,1.0,2.0,16.3646931,48.2019611
+Melbourne,Australia,Victoria,4170000,,Australia/Melbourne,11.0,10.0,144.9730704,-37.8180855
+Taipei,Taiwan,Taipei City,6900273,Asia/Taipei,Asia/Taipei,8.0,8.0,121.5683333,25.0358333
+Los Angeles,United States of America,California,12500000,America/Los_Angeles,America/Los_Angeles,-8.0,-7.0,-118.23198647223317,34.049219260337075
+"Washington,  D.C.",United States of America,District of Columbia,4338000,America/New_York,America/New_York,-5.0,-4.0,-77.0113644,38.9014952
+New York,United States of America,New York,19040000,America/New_York,America/New_York,-5.0,-4.0,-73.99571754361698,40.72156174972766
+London,United Kingdom,Westminster,8567000,Europe/London,Europe/London,0.0,1.0,-0.1186677,51.5019406
+Istanbul,Turkey,Istanbul,10061000,Europe/Istanbul,Europe/Istanbul,3.0,3.0,28.97427681675554,41.01760173507249
+Riyadh,Saudi Arabia,Ar Riyad,4465000,Asia/Riyadh,Asia/Riyadh,3.0,3.0,46.720487024887696,24.634497474837755
+Cape Town,South Africa,Western Cape,3215000,Africa/Johannesburg,Africa/Johannesburg,2.0,2.0,18.4330423,-33.9180651
+Moscow,Russia,Moskva,10452000,,Europe/Moscow,3.0,3.0,37.613577,55.75411
+Mexico City,Mexico,Distrito Federal,19028000,America/Mexico_City,America/Mexico_City,-6.0,-6.0,-99.1329341,19.4443883
+Lagos,Nigeria,Lagos,9466000,Europe/Athens,Africa/Lagos,1.0,1.0,3.3895852,6.4452075
+Rome,Italy,Lazio,3339000,Europe/Rome,Europe/Rome,1.0,2.0,12.4813126,41.8979015
+Beijing,China,Beijing,11106000,Asia/Harbin,Asia/Shanghai,8.0,8.0,116.39420089260611,39.901720309862675
+Nairobi,Kenya,Nairobi,3010000,Africa/Nairobi,Africa/Nairobi,3.0,3.0,36.814711,-1.2814009
+Jakarta,Indonesia,Jakarta Raya,9125000,Asia/Jakarta,Asia/Jakarta,7.0,7.0,106.8274918,-6.1724718
+Bogota,Colombia,Bogota,7772000,America/Bogota,America/Bogota,-5.0,-5.0,-74.0852898,4.5983694
+Cairo,Egypt,Al Qahirah,11893000,Africa/Cairo,Africa/Cairo,2.0,3.0,31.2480224,30.0519062
+Shanghai,China,Shanghai,14987000,Asia/Shanghai,Asia/Shanghai,8.0,8.0,121.4345588,31.2183983
+Tokyo,Japan,Tokyo,35676000,Asia/Tokyo,Asia/Tokyo,9.0,9.0,139.7494616,35.6869628
+Mumbai,India,Maharashtra,18978000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,72.8758393972653,19.06840847529168
+Paris,France,Île-de-France,9904000,Europe/Paris,Europe/Paris,1.0,2.0,2.3529924615392135,48.85809231626911
+Santiago,Chile,Región Metropolitana de Santiago,5720000,America/Sao_Paulo,America/Santiago,-3.0,-4.0,-70.65050407285783,-33.44020506918074
+Kolkata,India,West Bengal,14787000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,88.36912550443886,22.569578883795778
+Rio de Janeiro,Brazil,Rio de Janeiro,11748000,America/Sao_Paulo,America/Sao_Paulo,-3.0,-3.0,-43.212117466834385,-22.907308056882364
+São Paulo,Brazil,São Paulo,18845000,America/Sao_Paulo,America/Sao_Paulo,-3.0,-3.0,-46.6269658,-23.5567337
+Sydney,Australia,New South Wales,4630000,,Australia/Sydney,11.0,10.0,151.2125477744749,-33.87137339218338
+Singapore,Singapore,,5183700,Asia/Singapore,Asia/Singapore,8.0,8.0,103.8538748,1.2949793
+Hong Kong,Hong Kong S.A.R.,,7206000,Asia/Hong_Kong,Asia/Hong_Kong,8.0,8.0,114.1830635,22.3069268
+Amaravati,India,Andhra Pradesh,5800000,Asia/Kolkata,Asia/Kolkata,5.5,5.5,80.52432001010749,16.533657954485985

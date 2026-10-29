@@ -1,0 +1,103 @@
+west,east,west_tz,east_tz,dist_km,east_west_km,north_south_km,west_pop,east_pop,west_lon,west_lat,east_lon,east_lat,east_minus_west_h_jan,east_minus_west_h_jul,cross_boundary,inverted_in,west_country,east_country
+"Melilla, Spain","Tlimcen, Algeria",Africa/Ceuta,Africa/Algiers,155.4,148.3,45.5,141308,229777,-2.9500114,35.3000016,-1.3200076,34.8904142,0.0,-1.0,True,jul,Spain,Algeria
+"Comilla, Bangladesh","Agartala, India",Asia/Dhaka,Asia/Kolkata,42.0,11.2,40.6,389411,203264,91.16998,23.4704136,91.2799991,23.8354043,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Arica, Chile","Tacna, Peru",America/Santiago,America/Lima,55.5,4.2,55.6,185999,280098,-70.2899838,-18.500022,-70.250012,-18.0000008,-2.0,-1.0,True,"jan,jul",Chile,Peru
+"Sylhet, Bangladesh","Shillong, India",Asia/Dhaka,Asia/Kolkata,73.9,0.6,74.2,237000,375527,91.8736063,24.9035561,91.8800142,25.5704922,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Vigo, Spain","Braga, Portugal",Europe/Madrid,Europe/Lisbon,78.2,25.6,74.0,378952,826833,-8.7299945,42.2200185,-8.4213312,41.5549945,-1.0,-1.0,True,"jan,jul",Spain,Portugal
+"Biratnagar, Nepal","Purnia, India",Asia/Kathmandu,Asia/Kolkata,79.8,19.6,77.7,182324,198453,87.2833439,26.4837439,87.4799727,25.7854144,-0.25,-0.25,True,"jan,jul",Nepal,India
+"Singapore, Singapore","Tanjungpinang, Indonesia",Asia/Singapore,Asia/Jakarta,80.5,68.7,42.1,5183700,226666,103.8538748,1.2949793,104.471442,0.916829,-1.0,-1.0,True,"jan,jul",Singapore,Indonesia
+"Narayanganj, Bangladesh","Agartala, India",Asia/Dhaka,Asia/Kolkata,83.0,79.4,23.9,223622,203264,90.4999951,23.6204045,91.2799991,23.8354043,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Manpo, North Korea","Baishan, China",Asia/Pyongyang,Asia/Shanghai,84.6,11.2,83.9,186827,330000,126.2958463,41.145433,126.4299983,41.9000122,-1.0,-1.0,True,"jan,jul",North Korea,China
+"Rangpur, Bangladesh","Alipur Duar, India",Asia/Dhaka,Asia/Kolkata,86.2,28.6,81.6,285564,127342,89.2800179,25.7500161,89.566667,26.4837439,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Dhaka, Bangladesh","Agartala, India",Asia/Dhaka,Asia/Kolkata,89.9,88.9,12.3,12797394,203264,90.4066336,23.7250056,91.2799991,23.8354043,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Sylhet, Bangladesh","Silchar, India",Asia/Dhaka,Asia/Kolkata,93.5,92.5,12.6,237000,152393,91.8736063,24.9035561,92.7900362,24.7904106,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Ashgabat, Turkmenistan","Quchan, Iran",Asia/Ashgabat,Asia/Tehran,93.6,10.4,93.2,727700,145531,58.3832991,37.9499949,58.5014831,37.111829,-1.5,-1.5,True,"jan,jul",Turkmenistan,Iran
+"Cádiz, Spain","Tangier, Morocco",Europe/Madrid,Africa/Casablanca,93.7,43.1,83.3,283157,750060,-6.2861410092128995,36.52482926254671,-5.806197897901798,35.77592490288572,-1.0,-2.0,True,"jan,jul",Spain,Morocco
+"Saidpur, Bangladesh","Alipur Duar, India",Asia/Dhaka,Asia/Kolkata,94.6,56.6,76.0,232209,127342,88.9999833,25.8004265,89.566667,26.4837439,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Alor Setar, Malaysia","Hat Yai, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,98.3,10.9,98.2,336475,317954,100.3729325,6.1133077,100.4714278,6.9964321,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Puerto Vallarta, Mexico","Tepic, Mexico",America/Mexico_City,America/Mazatlan,99.2,37.9,92.1,187134,318781,-105.2449819,20.6770958,-104.8799913,21.5053915,-1.0,-1.0,True,"jan,jul",Mexico,Mexico
+"Johor Bahru, Malaysia","Tanjungpinang, Indonesia",Asia/Kuala_Lumpur,Asia/Jakarta,103.7,82.6,62.8,875000,226666,103.7280944,1.4819705,104.471442,0.916829,-1.0,-1.0,True,"jan,jul",Malaysia,Indonesia
+"Pedro Juan Caballero, Paraguay","Dourados, Brazil",America/Asuncion,America/Campo_Grande,103.8,97.7,35.0,102787,162202,-55.7599921,-22.5445813,-54.8099984,-22.2300268,-1.0,-1.0,True,"jan,jul",Paraguay,Brazil
+"Birganj, Nepal","Muzaffarpur, India",Asia/Kathmandu,Asia/Kolkata,110.1,51.1,97.9,133238,333200,84.8665922,27.0004049,85.3799458,26.1204328,-0.25,-0.25,True,"jan,jul",Nepal,India
+"Alor Setar, Malaysia","Yala, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,111.9,100.8,48.6,336475,148140,100.3729325,6.1133077,101.2850732,6.5504903,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Abohar, India","Kasur, Pakistan",Asia/Kolkata,Asia/Karachi,113.8,26.1,111.1,130603,290643,74.18234179634925,30.126337570600114,74.4550313,31.1253727,-0.5,-0.5,True,"jan,jul",India,Pakistan
+"Melilla, Spain","Oujda, Morocco",Africa/Ceuta,Africa/Casablanca,116.6,94.7,67.8,141308,409391,-2.9500114,35.3000016,-1.9099716,34.690013,-1.0,-2.0,True,"jan,jul",Spain,Morocco
+"Vigo, Spain","Porto, Portugal",Europe/Madrid,Europe/Lisbon,119.0,9.0,118.8,378952,1337000,-8.7299945,42.2200185,-8.6219471,41.1519522,-1.0,-1.0,True,"jan,jul",Spain,Portugal
+"Biratnagar, Nepal","Siliguri, India",Asia/Kathmandu,Asia/Kolkata,119.6,116.5,26.3,182324,515574,87.2833439,26.4837439,88.4550036,26.720422,-0.25,-0.25,True,"jan,jul",Nepal,India
+"Qurghonteppa, Tajikistan","Kondoz, Afghanistan",Asia/Dushanbe,Asia/Kabul,123.4,9.0,123.4,311574,259809,68.7713472,37.8373145,68.8725297,36.7279507,-0.5,-0.5,True,"jan,jul",Tajikistan,Afghanistan
+"Alor Setar, Malaysia","Pattani, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,127.7,96.9,83.5,336475,150000,100.3729325,6.1133077,101.2500006,6.864003,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Sungai Petani, Malaysia","Yala, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,133.7,89.1,100.2,358499,148140,100.4793343,5.6497184,101.2850732,6.5504903,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Nawabganj, Bangladesh","Krishnanagar, India",Asia/Dhaka,Asia/Kolkata,134.2,18.3,133.4,142361,145926,88.3499971,24.5803976,88.5300378,23.3803416,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Mymensingh, Bangladesh","Agartala, India",Asia/Dhaka,Asia/Kolkata,136.5,91.2,101.7,330126,203264,90.3800024,24.750413,91.2799991,23.8354043,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Tokmak, Kyrgyzstan","Almaty, Kazakhstan",Asia/Bishkek,Asia/Almaty,143.7,132.3,55.3,112860,1209000,75.2845931,42.8298779,76.9130903,43.3269357,-1.0,-1.0,True,"jan,jul",Kyrgyzstan,Kazakhstan
+"Tangail, Bangladesh","Agartala, India",Asia/Dhaka,Asia/Kolkata,145.8,138.1,46.1,180144,203264,89.9200305,24.2499785,91.2799991,23.8354043,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Cádiz, Spain","Larache, Morocco",Europe/Madrid,Africa/Casablanca,147.4,11.4,147.3,283157,120082,-6.2861410092128995,36.52482926254671,-6.1600222,35.2004212,-1.0,-2.0,True,"jan,jul",Spain,Morocco
+"Hetauda, Nepal","Muzaffarpur, India",Asia/Kathmandu,Asia/Kolkata,147.7,34.4,144.1,232334,333200,85.033352,27.4166844,85.3799458,26.1204328,-0.25,-0.25,True,"jan,jul",Nepal,India
+"Sinuiju, North Korea","Huanren, China",Asia/Pyongyang,Asia/Shanghai,151.7,78.0,130.2,288112,116621,124.4212837,40.0858594,125.3459818,41.2563306,-1.0,-1.0,True,"jan,jul",North Korea,China
+"Termiz, Uzbekistan","Kondoz, Afghanistan",Asia/Samarkand,Asia/Kabul,153.0,142.1,56.2,177687,259809,67.2729374,37.2329328,68.8725297,36.7279507,-0.5,-0.5,True,"jan,jul",Uzbekistan,Afghanistan
+"Arad, Romania","Debrecen, Hungary",Europe/Bucharest,Europe/Budapest,153.1,23.6,151.3,169065,231286,21.31998,46.17001,21.6300386,47.5304696,-1.0,-1.0,True,"jan,jul",Romania,Hungary
+"Birganj, Nepal","Patna, India",Asia/Kathmandu,Asia/Kolkata,154.4,26.1,152.7,133238,2158000,84.8665922,27.0004049,85.1280928,25.626905,-0.25,-0.25,True,"jan,jul",Nepal,India
+"Barishal, Bangladesh","Agartala, India",Asia/Dhaka,Asia/Kolkata,156.1,92.4,126.2,202242,203264,90.3749898,22.700409,91.2799991,23.8354043,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Kutaisi, Georgia","Nalchik, Russia",Asia/Tbilisi,Europe/Moscow,156.5,72.4,138.8,183945,307866,42.729991,42.2499909,43.6179471,43.4981059,-1.0,-1.0,True,"jan,jul",Georgia,Russia
+"Sylhet, Bangladesh","Aizawl, India",Asia/Dhaka,Asia/Kolkata,157.6,85.8,132.7,237000,283021,91.8736063,24.9035561,92.7200146,23.710399,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Sungai Petani, Malaysia","Pattani, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,159.1,85.2,135.0,358499,150000,100.4793343,5.6497184,101.2500006,6.864003,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Butterworth, Malaysia","Yala, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,159.1,97.9,126.0,821652,148140,100.4000109,5.4170711,101.2850732,6.5504903,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Ras al Khaymah, United Arab Emirates","Bandar-e-Abbas, Iran",Asia/Dubai,Asia/Tehran,159.9,32.8,157.1,160849,461499,55.9427762,25.7915381,56.2721355,27.2040598,-0.5,-0.5,True,"jan,jul",United Arab Emirates,Iran
+"Abohar, India","Lahore, Pakistan",Asia/Kolkata,Asia/Karachi,159.9,15.8,159.6,130603,6577000,74.18234179634925,30.126337570600114,74.3480789,31.5619174,-0.5,-0.5,True,"jan,jul",India,Pakistan
+"Comilla, Bangladesh","Aizawl, India",Asia/Dhaka,Asia/Kolkata,160.4,158.0,26.7,389411,283021,91.16998,23.4704136,92.7200146,23.710399,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"George Town, Malaysia","Yala, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,164.3,105.7,126.4,2500000,148140,100.3293679,5.4136132,101.2850732,6.5504903,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Ulyanovsk, Russia","Kazan, Russia",Europe/Ulyanovsk,Europe/Moscow,164.7,45.5,158.1,640680,1115000,48.4100061,54.329977,49.1243989,55.7518879,-1.0,-1.0,True,"jan,jul",Russia,Russia
+"Cádiz, Spain","Ksar El Kebir, Morocco",Europe/Madrid,Africa/Casablanca,170.4,33.9,167.3,283157,306600,-6.2861410092128995,36.52482926254671,-5.9099858,35.0203805,-1.0,-2.0,True,"jan,jul",Spain,Morocco
+"Lalitpur, Nepal","Muzaffarpur, India",Asia/Kathmandu,Asia/Kolkata,171.4,4.6,171.9,337785,333200,85.3333337,27.6666175,85.3799458,26.1204328,-0.25,-0.25,True,"jan,jul",Nepal,India
+"Butterworth, Malaysia","Hat Yai, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,174.8,7.9,175.6,821652,317954,100.4000109,5.4170711,100.4714278,6.9964321,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Chongju, North Korea","Huanren, China",Asia/Pyongyang,Asia/Shanghai,175.2,11.0,175.1,141769,116621,125.2163256,39.6812846,125.3459818,41.2563306,-1.0,-1.0,True,"jan,jul",North Korea,China
+"George Town, Malaysia","Hat Yai, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,175.7,15.7,176.0,2500000,317954,100.3293679,5.4136132,100.4714278,6.9964321,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Termiz, Uzbekistan","Baghlan, Afghanistan",Asia/Samarkand,Asia/Kabul,176.0,127.2,121.6,177687,218748,67.2729374,37.2329328,68.6992586,36.1393303,-0.5,-0.5,True,"jan,jul",Uzbekistan,Afghanistan
+"Mymensingh, Bangladesh","Shillong, India",Asia/Dhaka,Asia/Kolkata,176.4,151.0,91.2,330126,375527,90.3800024,24.750413,91.8800142,25.5704922,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Kathmandu, Nepal","Muzaffarpur, India",Asia/Kathmandu,Asia/Kolkata,177.2,6.5,177.7,895000,333200,85.3146964,27.7186378,85.3799458,26.1204328,-0.25,-0.25,True,"jan,jul",Nepal,India
+"Keluang, Malaysia","Tanjungpinang, Indonesia",Asia/Kuala_Lumpur,Asia/Jakarta,178.5,128.2,124.7,169828,226666,103.317869,2.038311,104.471442,0.916829,-1.0,-1.0,True,"jan,jul",Malaysia,Indonesia
+"Jamalpur, Bangladesh","Agartala, India",Asia/Dhaka,Asia/Kolkata,179.2,134.7,118.4,167900,203264,89.9500028,24.9004297,91.2799991,23.8354043,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Chattogram, Bangladesh","Aizawl, India",Asia/Dhaka,Asia/Kolkata,179.5,94.4,153.3,4529000,283021,91.7980215,22.3319381,92.7200146,23.710399,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Seville, Spain","Tangier, Morocco",Europe/Madrid,Africa/Casablanca,181.4,15.5,181.2,1212045,750060,-5.9800074,37.4050153,-5.806197897901798,35.77592490288572,-1.0,-2.0,True,"jan,jul",Spain,Morocco
+"Kutaisi, Georgia","Vladikavkaz, Russia",Asia/Tbilisi,Europe/Moscow,182.2,158.7,89.0,183945,364630,42.729991,42.2499909,44.669976,43.0503813,-1.0,-1.0,True,"jan,jul",Georgia,Russia
+"Caen, France","Brighton, United Kingdom",Europe/Paris,Europe/London,183.6,12.9,183.1,190099,503008,-0.3499893,49.1837537,-0.1699744,50.8303457,-1.0,-1.0,True,"jan,jul",France,United Kingdom
+"Butterworth, Malaysia","Pattani, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,185.6,94.0,160.9,821652,150000,100.4000109,5.4170711,101.2500006,6.864003,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Baramula, India","Sialkote, Pakistan",Asia/Kolkata,Asia/Karachi,187.4,19.5,186.9,167986,477396,74.3500248,34.2004305,74.5600378,32.5200163,-0.5,-0.5,True,"jan,jul",India,Pakistan
+"Yerevan, Armenia","Khvoy, Iran",Asia/Yerevan,Asia/Tehran,187.7,39.4,183.8,1102000,202728,44.5116055,40.1830966,44.9700093,38.5303988,-0.5,-0.5,True,"jan,jul",Armenia,Iran
+"George Town, Malaysia","Pattani, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,190.0,101.8,161.3,2500000,150000,100.3293679,5.4136132,101.2500006,6.864003,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Nawabganj, Bangladesh","Bhatpara, India",Asia/Dhaka,Asia/Kolkata,191.4,6.5,192.1,142361,483129,88.3499971,24.5803976,88.41362605099683,22.85282090770563,-0.5,-0.5,True,"jan,jul",Bangladesh,India
+"Tbilisi, Georgia","Grozny, Russia",Asia/Tbilisi,Europe/Moscow,192.0,74.6,177.0,1100000,226100,44.7888496,41.7269558,45.6986987,43.3186853,-1.0,-1.0,True,"jan,jul",Georgia,Russia
+"Huelva, Spain","Tangier, Morocco",Europe/Madrid,Africa/Casablanca,192.1,100.4,164.0,144174,750060,-6.9299494,37.2503736,-5.806197897901798,35.77592490288572,-1.0,-2.0,True,"jan,jul",Spain,Morocco
+"Dimitrovgrad, Russia","Almetyevsk, Russia",Europe/Ulyanovsk,Europe/Moscow,192.6,177.9,72.3,132226,140437,49.5600134,54.2504212,52.3199483,54.9004073,-1.0,-1.0,True,"jan,jul",Russia,Russia
+"Denow, Uzbekistan","Kondoz, Afghanistan",Asia/Samarkand,Asia/Kabul,192.8,86.9,172.3,217274,259809,67.8871635,38.2771584,68.8725297,36.7279507,-0.5,-0.5,True,"jan,jul",Uzbekistan,Afghanistan
+"Ashgabat, Turkmenistan","Neyshabur, Iran",Asia/Ashgabat,Asia/Tehran,195.9,38.7,192.4,727700,221700,58.3832991,37.9499949,58.8200166,36.220023,-1.5,-1.5,True,"jan,jul",Turkmenistan,Iran
+"Bishkek, Kyrgyzstan","Almaty, Kazakhstan",Asia/Bishkek,Asia/Almaty,196.2,189.2,50.3,837000,1209000,74.5832584,42.8750253,76.9130903,43.3269357,-1.0,-1.0,True,"jan,jul",Kyrgyzstan,Kazakhstan
+"Taiping, Malaysia","Yala, Thailand",Asia/Kuala_Lumpur,Asia/Bangkok,196.6,62.5,187.4,237095,148140,100.7199914,4.8649601,101.2850732,6.5504903,-1.0,-1.0,True,"jan,jul",Malaysia,Thailand
+"Rubtsovsk, Russia","Oskemen, Kazakhstan",Asia/Barnaul,Asia/Almaty,197.0,98.8,170.1,161065,319067,81.2100195,51.5200193,82.6149467,49.9900352,-2.0,-2.0,True,"jan,jul",Russia,Kazakhstan
+"Hyeson, North Korea","Yanji, China",Asia/Pyongyang,Asia/Shanghai,198.2,108.8,165.6,227461,488740,128.1927331,41.3927305,129.5127559,42.8823037,-1.0,-1.0,True,"jan,jul",North Korea,China
+"Hetauda, Nepal","Patna, India",Asia/Kathmandu,Asia/Kolkata,198.5,9.4,199.0,232334,2158000,85.033352,27.4166844,85.1280928,25.626905,-0.25,-0.25,True,"jan,jul",Nepal,India
+"Timișoara, Romania","Debrecen, Hungary",Europe/Bucharest,Europe/Budapest,199.4,31.0,197.0,315053,231286,21.2234484,45.7588206,21.6300386,47.5304696,-1.0,-1.0,True,"jan,jul",Romania,Hungary
+"Batu Pahat, Malaysia","Tanjungpinang, Indonesia",Asia/Kuala_Lumpur,Asia/Jakarta,199.9,171.0,103.8,199619,226666,102.9333447,1.8503638,104.471442,0.916829,-1.0,-1.0,True,"jan,jul",Malaysia,Indonesia
+"Lida, Belarus","Vilnius, Lithuania",Europe/Minsk,Europe/Vilnius,88.5,2.1,88.4,100216,542366,25.2846476,53.8884794,25.3166353,54.6833663,-1.0,0.0,True,jan,Belarus,Lithuania
+"Victoria, Canada","Everett, United States of America",America/Vancouver,America/Los_Angeles,100.4,85.2,52.6,289625,486903,-123.3500009,48.4332827,-122.1999677,47.9604175,-1.0,0.0,True,jan,Canada,United States of America
+"Homyel, Belarus","Chernihiv, Ukraine",Europe/Minsk,Europe/Kyiv,105.0,20.7,102.9,480951,307684,31.0000093,52.4300155,31.3015413,51.5049298,-1.0,0.0,True,jan,Belarus,Ukraine
+"Victoria, Canada","Bremerton, United States of America",America/Vancouver,America/Los_Angeles,109.2,52.7,95.6,289625,126820,-123.3500009,48.4332827,-122.6420175,47.5735955,-1.0,0.0,True,jan,Canada,United States of America
+"Edirne, Turkey","Burgas, Bulgaria",Europe/Istanbul,Europe/Sofia,120.0,74.6,93.9,126470,195966,26.5699955,41.6704397,27.4746431,42.5146,-1.0,0.0,True,jan,Turkey,Bulgaria
+"Victoria, Canada","Seattle, United States of America",America/Vancouver,America/Los_Angeles,120.6,77.0,92.6,289625,3074000,-123.3500009,48.4332827,-122.31532231603904,47.600423319460475,-1.0,0.0,True,jan,Canada,United States of America
+"Abbotsford, Canada","Everett, United States of America",America/Vancouver,America/Los_Angeles,121.4,7.4,121.2,151683,486903,-122.2999874,49.0503768,-122.1999677,47.9604175,-1.0,0.0,True,jan,Canada,United States of America
+"Latakia, Syria","Ṭarābulus, Lebanon",Asia/Damascus,Asia/Beirut,122.3,4.7,122.5,539147,530000,35.779976,35.539987,35.83166068140427,34.438267091668244,-1.0,0.0,True,jan,Syria,Lebanon
+"Hrodna, Belarus","Kaunas, Lithuania",Europe/Minsk,Europe/Vilnius,141.7,3.0,141.5,317365,374643,23.8340901,53.6778721,23.8800305,54.9504043,-1.0,0.0,True,jan,Belarus,Lithuania
+"Hrodna, Belarus","Vilnius, Lithuania",Europe/Minsk,Europe/Vilnius,148.0,96.5,111.8,317365,542366,23.8340901,53.6778721,25.3166353,54.6833663,-1.0,0.0,True,jan,Belarus,Lithuania
+"Victoria, Canada","Tacoma, United States of America",America/Vancouver,America/Los_Angeles,148.9,67.4,132.6,289625,719868,-123.3500009,48.4332827,-122.44682411312154,47.24056773446696,-1.0,0.0,True,jan,Canada,United States of America
+"Taganrog, Russia","Luhansk, Ukraine",Europe/Moscow,Europe/Kyiv,152.2,30.9,149.0,279056,452000,38.919991,47.229997,39.3343843,48.5697602,-1.0,0.0,True,jan,Russia,Ukraine
+"Mazyr, Belarus","Chernihiv, Ukraine",Europe/Minsk,Europe/Kyiv,152.5,139.6,60.2,112137,307684,29.2721561,52.0459562,31.3015413,51.5049298,-1.0,0.0,True,jan,Belarus,Ukraine
+"Kerch, Russia","Berdyansk, Ukraine",Europe/Simferopol,Europe/Kyiv,156.0,23.0,154.4,152195,118284,36.4880981,45.3685085,36.7868396,46.7568217,-1.0,0.0,True,jan,Russia,Ukraine
+"Victoria, Canada","Olympia, United States of America",America/Vancouver,America/Los_Angeles,158.8,33.7,155.2,289625,156984,-123.3500009,48.4332827,-122.899434,47.0380449,-1.0,0.0,True,jan,Canada,United States of America
+"Vancouver, Canada","Everett, United States of America",America/Vancouver,America/Los_Angeles,161.3,67.9,146.2,2313328,486903,-123.1235901,49.2753624,-122.1999677,47.9604175,-1.0,0.0,True,jan,Canada,United States of America
+"Homyel, Belarus","Nizhyn, Ukraine",Europe/Minsk,Europe/Kyiv,165.0,61.3,153.0,480951,116288,31.0000093,52.4300155,31.8902909,51.0540788,-1.0,0.0,True,jan,Belarus,Ukraine
+"Pinsk, Belarus","Rivne, Ukraine",Europe/Minsk,Europe/Kyiv,168.5,11.0,168.1,130777,255106,26.0940555,52.1278634,26.2528055,50.6165861,-1.0,0.0,True,jan,Belarus,Ukraine
+"Brest, Belarus","Lutsk, Ukraine",Europe/Minsk,Europe/Kyiv,188.6,113.3,150.4,300715,213661,23.6999898,52.0999839,25.3333785,50.7471983,-1.0,0.0,True,jan,Belarus,Ukraine
+"Vancouver, Canada","Bremerton, United States of America",America/Vancouver,America/Los_Angeles,192.6,35.5,189.2,2313328,126820,-123.1235901,49.2753624,-122.6420175,47.5735955,-1.0,0.0,True,jan,Canada,United States of America
+"Kursk, Russia","Kharkiv, Ukraine",Europe/Moscow,Europe/Kyiv,193.4,4.1,193.3,409431,1461000,36.1900284,51.7399801,36.2480789,50.0019288,-1.0,0.0,True,jan,Russia,Ukraine
+"Vancouver, Canada","Seattle, United States of America",America/Vancouver,America/Los_Angeles,195.6,59.6,186.3,2313328,3074000,-123.1235901,49.2753624,-122.31532231603904,47.600423319460475,-1.0,0.0,True,jan,Canada,United States of America
+"Mazyr, Belarus","Kyiv, Ukraine",Europe/Minsk,Europe/Kyiv,199.1,86.5,179.1,112137,2709000,29.2721561,52.0459562,30.5146821,50.4353132,-1.0,0.0,True,jan,Belarus,Ukraine
