@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/raw/
+# intermediate renders; the published map lives in docs/
+output/*.png
+output/*.svg
+previews/
