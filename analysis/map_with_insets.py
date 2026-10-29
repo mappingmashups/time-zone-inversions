@@ -94,8 +94,15 @@ clusters = [{"rows": [i], "lons": [r.west_lon, r.east_lon], "lats": [r.west_lat,
 land50 = gpd.read_file("data/raw/natural_earth/ne_50m_admin_0_countries_lakes.shp")
 land10 = gpd.read_file("data/raw/natural_earth/ne_10m_admin_0_countries_lakes.shp")
 tz_now = gpd.read_file("data/raw/timezones/timezones-with-oceans-now.shapefile/combined-shapefile-with-oceans-now.shp")
+# The "now" layer leaves zones that changed rules during 2026 unmerged (e.g. America/Edmonton vs America/Regina, both
+# permanent UTC-6). Merge every zone whose clock matches on the 1st and 15th of each month, Nov 2026 - Oct 2028, so
+# boundaries are drawn only where the clock actually differs.
+SAMPLES = [datetime(2026 + (10 + m) // 12, (10 + m) % 12 + 1, d, 12) for m in range(24) for d in (1, 15)]
+tz_now["clock"] = [tuple(t.replace(tzinfo=ZoneInfo(z)).utcoffset().total_seconds() for t in SAMPLES) for z in tz_now.tzid]
+tz_now = tz_now.set_geometry(tz_now.geometry.make_valid()).dissolve(by="clock", as_index=False, aggfunc="first")
 tz_edges = tz_now.boundary.clip_by_rect(-179.99, -89.99, 179.99, 89.99)
 tz_now["offset"] = [DATES["jan"].replace(tzinfo=ZoneInfo(t)).utcoffset().total_seconds() / 3600 for t in tz_now.tzid]
+print(f"{len(tz_now)} clock zones after merging")
 tz_now["fill"] = tz_now.offset.map(zone_fill)
 OCEAN_FADE = dict(color=OCEAN, alpha=0.85, edgecolor="none")  # mutes time zone colors at sea
 
