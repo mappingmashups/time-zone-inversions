@@ -15,6 +15,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import numpy as np
+import shapely
 import pandas as pd
 from adjustText import adjust_text
 from pyproj import Geod, Transformer
@@ -144,9 +145,12 @@ ax.set_facecolor(SURFACE)
 wz = tz_now.set_geometry(tz_now.geometry.segmentize(0.5)).to_crs(WORLD_CRS)
 wz = wz.set_geometry(wz.geometry.simplify(WORLD_TOL).make_valid()).clip(map_shape)
 wz.plot(ax=ax, color=wz.fill, edgecolor="none", zorder=0)
-wland = land50[land50.ADM0_A3 != "ATA"].to_crs(WORLD_CRS)
-wland = wland.set_geometry(wland.geometry.simplify(WORLD_TOL).make_valid()).clip(map_shape)
-wland_union = wland.geometry.make_valid().union_all()
+wland_raw = land50[land50.ADM0_A3 != "ATA"].to_crs(WORLD_CRS)
+wland_raw = wland_raw.set_geometry(wland_raw.geometry.make_valid())
+# union BEFORE simplifying: countries simplified one by one no longer share edges exactly, and the
+# hairline gaps between them would otherwise be drawn as dark "coastline" inside the continents
+wland_union = shapely.make_valid(wland_raw.union_all().simplify(WORLD_TOL)).intersection(map_shape)
+wland = wland_raw.set_geometry(wland_raw.geometry.simplify(WORLD_TOL).make_valid()).clip(map_shape)  # white borders
 wedges = tz_edges.segmentize(0.5).to_crs(WORLD_CRS).simplify(WORLD_TOL).clip(map_shape)
 wedges.plot(ax=ax, color=TZ_STRONG, alpha=0.35, linewidth=0.3, zorder=0.5)  # at sea: faded by the mask
 gpd.GeoSeries([map_shape.difference(wland_union)], crs=WORLD_CRS).plot(ax=ax, **OCEAN_FADE, zorder=1)
@@ -225,15 +229,16 @@ for idx, c in enumerate(clusters):
     pz = pz.set_geometry(pz.geometry.segmentize(0.05)).to_crs(crs)
     pz = pz.set_geometry(pz.geometry.simplify(PANEL_TOL).make_valid()).clip(frame)
     pz.plot(ax=pax, color=pz.fill, edgecolor="none", zorder=0)
-    pland = land10.clip(win).to_crs(crs)
-    pland = pland.set_geometry(pland.geometry.simplify(PANEL_TOL).make_valid()).clip(frame)
+    pland_raw = land10.clip(win).to_crs(crs)
+    pland_raw = pland_raw.set_geometry(pland_raw.geometry.make_valid())
+    pland_union = shapely.make_valid(pland_raw.union_all().simplify(PANEL_TOL)).intersection(frame)  # see wland_union
+    pland = pland_raw.set_geometry(pland_raw.geometry.simplify(PANEL_TOL).make_valid()).clip(frame)
     pedges = gpd.GeoSeries([tz_edges.clip(win).union_all()], crs=4326).segmentize(0.05).to_crs(crs).simplify(PANEL_TOL).clip(frame)
     pedges.plot(ax=pax, color=TZ_STRONG, linewidth=0.8, zorder=0.5)
-    sea = frame.difference(pland.union_all())
+    sea = frame.difference(pland_union)
     if not sea.is_empty:
         gpd.GeoSeries([sea], crs=crs).plot(ax=pax, **OCEAN_FADE, zorder=1)
     pland.boundary.plot(ax=pax, color="white", linewidth=0.8, zorder=1.5)
-    pland_union = pland.geometry.make_valid().union_all()
     pcoast = pland_union.boundary.difference(frame.boundary.buffer(500))
     if not pcoast.is_empty:
         gpd.GeoSeries([pcoast], crs=crs).plot(ax=pax, color=TZ_STRONG, linewidth=0.6, zorder=1.7)
