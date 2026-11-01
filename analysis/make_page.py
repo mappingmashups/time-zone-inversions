@@ -5,6 +5,8 @@ from zoneinfo import ZoneInfo
 
 import pandas as pd
 
+SITE = "https://mappingmashups.github.io/time-zone-inversions/"
+REPO = "https://github.com/mappingmashups/time-zone-inversions"
 WINTER, SUMMER = datetime(2026, 11, 1, 12), datetime(2027, 7, 15, 12)
 
 pairs = pd.read_csv("output/inverted_pairs_100k_200km_ew50_per_border.csv")
@@ -47,7 +49,9 @@ html = f"""<!doctype html>
 <meta name="description" content="Nearby city pairs where the more easterly city keeps an earlier clock, from Vancouver and Seattle to Singapore and Tanjungpinang.">
 <meta property="og:title" content="Backwards Clocks">
 <meta property="og:description" content="Nearby cities where the eastern one is on an earlier clock.">
-<meta property="og:image" content="map.png">
+<meta property="og:image" content="{SITE}map.png">
+<meta property="og:url" content="{SITE}">
+<meta name="twitter:card" content="summary_large_image">
 <style>
   :root {{
     --bg: #fcfcfb; --ink: #1d1c1a; --ink-2: #52514e; --rule: #e4e3df; --accent: #2a78d6;
@@ -62,6 +66,7 @@ html = f"""<!doctype html>
   h2 {{ font-size: 1.25rem; margin: 2.2em 0 .5em; }}
   p {{ margin: 0 0 1em; }}
   .lede {{ font-size: 1.15rem; color: var(--ink-2); }}
+  .byline {{ font-size: .95rem; color: var(--ink-2); margin: 0 0 1.2em; }}
   a {{ color: var(--accent); }}
   figure {{ margin: 28px 0 8px; }}
   figure img {{ width: 100%; height: auto; display: block; border: 1px solid var(--rule); }}
@@ -81,6 +86,8 @@ html = f"""<!doctype html>
 <main>
   <div class="prose">
     <h1>Backwards clocks</h1>
+    <p class="byline">By <a href="https://mappingmashups.net">Alan McConchie</a> ·
+      <a href="{REPO}">Source code and data on GitHub</a></p>
     <p class="lede">From 1&nbsp;November&nbsp;2026, driving from Seattle to Vancouver takes you about 200&nbsp;km north and
       60&nbsp;km <em>west</em>&nbsp;— yet you set your watch an hour <em>ahead</em>, as if you'd travelled east.</p>
     <p>British Columbia stopped changing its clocks in 2026 and now stays on UTC−7 all year, while Washington State still
@@ -136,7 +143,7 @@ html = f"""<!doctype html>
     </ul>
   </div>
 
-  <footer>Map made with Python (geopandas, pyproj, matplotlib). World map: Equal Earth projection; panels: local azimuthal
+  <footer><a href="{REPO}">Source code and data on GitHub</a>. Map made with Python (geopandas, pyproj, matplotlib). World map: Equal Earth projection; panels: local azimuthal
     equidistant, all at the same scale.</footer>
 </main>
 </body>

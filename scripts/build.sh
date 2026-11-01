@@ -13,3 +13,4 @@ cp output/map_inverted_pairs_with_panels.png docs/map.png
 cp output/map_inverted_pairs_with_panels.svg docs/map.svg
 cp output/inverted_pairs_100k_200km_ew50_per_border.csv docs/city_pairs.csv
 "$PY" analysis/make_page.py                         # docs/index.html
+"$PY" analysis/social_cards.py                      # square images for social media -> output/social/

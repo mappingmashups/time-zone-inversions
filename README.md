@@ -36,6 +36,9 @@ scripts/build.sh
 | Apply the 50 km east–west filter and keep one pair per border | `analysis/map_world.py --one-per-border` | `output/inverted_pairs_*_ew50*.csv` |
 | Draw the map | `analysis/map_with_insets.py` | `output/map_inverted_pairs_with_panels.png` / `.svg` |
 | Build the web page | `analysis/make_page.py` | `docs/index.html` |
+| Square images for social media | `analysis/social_cards.py` | `output/social/*.png`, `*.jpg` |
+
+The map and social images share their data loading, colours and drawing code through `analysis/mapkit.py`.
 
 `inverted_pairs.py` takes the population and distance thresholds as arguments, so you can explore other cut-offs.
 
