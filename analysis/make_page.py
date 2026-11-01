@@ -133,6 +133,10 @@ html = f"""<!doctype html>
       city over 100,000, so some pairs may be missing. Time zones follow the IANA database and OpenStreetMap, which may
       differ from local practice in disputed or occupied areas.</p>
 
+    <p>This map was created for the <a href="https://30daymapchallenge.com/">#30DayMapChallenge</a> Day&nbsp;1: Points.
+      Design and direction by <a href="https://mappingmashups.net">Alan McConchie</a>, code and analysis by
+      <a href="https://claude.ai">Claude</a>.</p>
+
     <h2>Data</h2>
     <ul>
       <li>Countries and populated places: <a href="https://www.naturalearthdata.com/">Natural Earth</a> v5.1.2 (public domain).</li>
