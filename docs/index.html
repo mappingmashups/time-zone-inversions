@@ -7,7 +7,9 @@
 <meta name="description" content="Nearby city pairs where the more easterly city keeps an earlier clock, from Vancouver and Seattle to Singapore and Tanjungpinang.">
 <meta property="og:title" content="Backwards Clocks">
 <meta property="og:description" content="Nearby cities where the eastern one is on an earlier clock.">
-<meta property="og:image" content="map.png">
+<meta property="og:image" content="https://mappingmashups.github.io/time-zone-inversions/map.png">
+<meta property="og:url" content="https://mappingmashups.github.io/time-zone-inversions/">
+<meta name="twitter:card" content="summary_large_image">
 <style>
   :root {
     --bg: #fcfcfb; --ink: #1d1c1a; --ink-2: #52514e; --rule: #e4e3df; --accent: #2a78d6;
@@ -22,6 +24,7 @@
   h2 { font-size: 1.25rem; margin: 2.2em 0 .5em; }
   p { margin: 0 0 1em; }
   .lede { font-size: 1.15rem; color: var(--ink-2); }
+  .byline { font-size: .95rem; color: var(--ink-2); margin: 0 0 1.2em; }
   a { color: var(--accent); }
   figure { margin: 28px 0 8px; }
   figure img { width: 100%; height: auto; display: block; border: 1px solid var(--rule); }
@@ -41,6 +44,8 @@
 <main>
   <div class="prose">
     <h1>Backwards clocks</h1>
+    <p class="byline">By <a href="https://mappingmashups.net">Alan McConchie</a> ·
+      <a href="https://github.com/mappingmashups/time-zone-inversions">Source code and data on GitHub</a></p>
     <p class="lede">From November&nbsp;1,&nbsp;2026, driving from Seattle to Vancouver takes you about 200&nbsp;km north and
       60&nbsp;km <em>west</em>&nbsp;— yet you set your watch an hour <em>ahead</em>, as if you'd travelled east.</p>
     <p>British Columbia stopped changing its clocks in 2026 and now stays on UTC−7 all year, while Washington State still
@@ -257,7 +262,7 @@
     </ul>
   </div>
 
-  <footer>Map made with Python (geopandas, pyproj, matplotlib). World map: Equal Earth projection; panels: local azimuthal
+  <footer><a href="https://github.com/mappingmashups/time-zone-inversions">Source code and data on GitHub</a>. Map made with Python (geopandas, pyproj, matplotlib). World map: Equal Earth projection; panels: local azimuthal
     equidistant, all at the same scale.</footer>
 </main>
 </body>
